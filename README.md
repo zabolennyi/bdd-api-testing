@@ -1,3 +1,2 @@
 # bdd-api-testing
 
-.
